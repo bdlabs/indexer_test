@@ -1,0 +1,27 @@
+{
+  "name": "moje_testy",
+  "version": "1.0.0",
+  "description": "Moja pierwsza zabawa z node bedziemy robic jakas mala klase",
+  "main": "index.js",
+  "scripts": {
+    "test": "komentarz testowy?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chwilowo brak"
+  },
+  "keywords": [
+    "keywords"
+  ],
+  "author": "bdsystem",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jasmine": "^1.0.3",
+    "grunt-jasmine": "^0.1.0",
+    "grunt-template-jasmine-requirejs": "^0.2.3"
+  },
+  "dependencies": {
+    "babel": "^6.5.2"
+  }
+}
